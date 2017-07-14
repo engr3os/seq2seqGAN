@@ -1,0 +1,6 @@
+model_checkpoint_path: "seq2seqgan.ckpt-7"
+all_model_checkpoint_paths: "seq2seqgan.ckpt-3"
+all_model_checkpoint_paths: "seq2seqgan.ckpt-4"
+all_model_checkpoint_paths: "seq2seqgan.ckpt-5"
+all_model_checkpoint_paths: "seq2seqgan.ckpt-6"
+all_model_checkpoint_paths: "seq2seqgan.ckpt-7"
